@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Danilo Vargas da Silva" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=200&section=header&text=Danilo%20Vargas%20da%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%26%20Senior%20Backend%20Engineer%20%7C%20Node.js%2FTypeScript%20%C2%B7%20Python&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://linkedin.com/in/danilovargasdasilva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:danilo.silva.eua@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -26,18 +26,7 @@ Engenheiro de Software e Tech Lead com **6 anos de experiência** em sistemas ba
 ### Stack
 
 <div align="center">
-<img src="./assets/icons/nodedotjs.svg" width="42" height="42" title="Node.js" />&nbsp;&nbsp;
-<img src="./assets/icons/typescript.svg" width="42" height="42" title="TypeScript" />&nbsp;&nbsp;
-<img src="./assets/icons/python.svg" width="42" height="42" title="Python" />&nbsp;&nbsp;
-<img src="./assets/icons/fastapi.svg" width="42" height="42" title="FastAPI" />&nbsp;&nbsp;
-<img src="./assets/icons/openjdk.svg" width="42" height="42" title="Java" />&nbsp;&nbsp;
-<img src="./assets/icons/spring.svg" width="42" height="42" title="Spring Boot" />&nbsp;&nbsp;
-<img src="./assets/icons/postgresql.svg" width="42" height="42" title="PostgreSQL" />&nbsp;&nbsp;
-<img src="./assets/icons/redis.svg" width="42" height="42" title="Redis" />&nbsp;&nbsp;
-<img src="./assets/icons/apachekafka.svg" width="42" height="42" title="Kafka" />&nbsp;&nbsp;
-<img src="./assets/icons/docker.svg" width="42" height="42" title="Docker" />&nbsp;&nbsp;
-<img src="./assets/icons/kubernetes.svg" width="42" height="42" title="Kubernetes" />&nbsp;&nbsp;
-<img src="./assets/icons/grafana.svg" width="42" height="42" title="Grafana" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,python,fastapi,java,postgres,redis,kafka,docker,kubernetes,aws,grafana&perline=6" />
 </div>
 
 <br>
@@ -65,5 +54,14 @@ Engenheiro de Software e Tech Lead com **6 anos de experiência** em sistemas ba
 <br>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DaniloVargasDaSilva&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVargasDaSilva&layout=compact&theme=transparent&hide_border=true" height="165" />
+</div>
+
+<br>
+
+<div align="center">
 <sub>Agentblazer Champion & Innovator · Cyber Threat Management (ENISA) · Lean Six Sigma Yellow Belt · Governança de Dados (ENAP)</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" />
