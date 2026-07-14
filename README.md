@@ -10,7 +10,7 @@
 
 <a href="https://linkedin.com/in/danilovargasdasilva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:danilo.silva.eua@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Sumaré%2FSP-Remote-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Sumaré%2FSão%2FPaulo%2FBrazil-Remote-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
