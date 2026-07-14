@@ -18,7 +18,7 @@
 
 ## 👋 About me
 
-Software Engineer and Tech Lead with **6 years of experience** in large-scale backend systems — microservices, event-driven architecture, and distributed data platforms in high-availability environments. Focused on scalable, resilient APIs, code quality, test automation, and observability.
+Software Engineer and Tech Lead with **6 years of experience** in large-scale backend systems  microservices, event-driven architecture, and distributed data platforms in high-availability environments. Focused on scalable, resilient APIs, code quality, test automation, and observability.
 
 <table>
 <tr>
