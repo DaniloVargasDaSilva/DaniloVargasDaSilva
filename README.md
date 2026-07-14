@@ -14,14 +14,6 @@ Engenheiro de Software e Tech Lead com **6 anos de experiência** em sistemas ba
 
 <br>
 
-### Foco atual
-
-- 🧭 Tech Lead de Engenharia de Plataforma & CRM — arquitetura e governança para 3 squads
-- 👥 Mentoria técnica: 6 engenheiros, padrões de code review e CI/CD adotados entre squads
-- 🌱 Supabase Community Fellow desde 2021 — multi-tenancy, pgvector e arquiteturas AI-ready
-- 🤖 Salesforce Agentblazer Champion & Innovator (GenAI / agentes autônomos)
-
-<br>
 
 ### Stack
 
@@ -39,17 +31,6 @@ Engenheiro de Software e Tech Lead com **6 anos de experiência** em sistemas ba
 | **Observabilidade** | Grafana · tracing distribuído |
 | **IA aplicada** | Claude Code · Cursor · RAG · pgvector |
 
-<br>
-
-### Resultados
-
-| Impacto | Contexto |
-|---|---|
-| **−40%** incidentes críticos | Iniciativas de maturidade de engenharia entre 3 squads |
-| **+65%** eficiência operacional | Redesign de sistema de despacho (dados, roteamento, microsserviços) |
-| **8x** mais rápido | Framework ETL/ELT em Python/Polars para Data Lakes |
-| **8TB+** Data Warehouse | PostgreSQL/Supabase, TCO 8x menor que alternativas gerenciadas |
-| **−98%** tempo de análise | Ferramenta Node.js adotada como padrão corporativo |
 
 <br>
 
@@ -58,10 +39,3 @@ Engenheiro de Software e Tech Lead com **6 anos de experiência** em sistemas ba
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVargasDaSilva&layout=compact&theme=transparent&hide_border=true" height="165" />
 </div>
 
-<br>
-
-<div align="center">
-<sub>Agentblazer Champion & Innovator · Cyber Threat Management (ENISA) · Lean Six Sigma Yellow Belt · Governança de Dados (ENAP)</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" />
