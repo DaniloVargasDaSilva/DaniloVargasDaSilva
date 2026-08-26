@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Danilo%20Vargas%20da%20Silva&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Tech%20Lead%20%26%20Senior%20Backend%20Engineer%20%7C%20Node.js%2FTypeScript%20%C2%B7%20Python&descAlignY=54&descSize=18" width="100%" />
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+high-scale+backend+systems;Event-driven+architecture+%7C+Kafka+%7C+PostgreSQL;Supabase+Community+Fellow+since+2021;Mentoring+engineers+%7C+Scaling+platforms" alt="Typing SVG" />
 
