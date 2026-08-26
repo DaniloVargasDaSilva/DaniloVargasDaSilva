@@ -82,15 +82,6 @@ Salesforce Agentblazer Champion & Innovator (GenAI / autonomous agents)
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DaniloVargasDaSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVargasDaSilva&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniloVargasDaSilva&theme=tokyonight&hide_border=true" />
 
 </div>
