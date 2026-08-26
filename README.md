@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+high-scale+backend+systems;Event-driven+architecture+%7C+Kafka+%7C+PostgreSQL;Supabase+Community+Fellow+since+2021;Mentoring+engineers+%7C+Scaling+platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+high-scale+backend+systems;Event-driven+architecture+%7C+Kafka+%7C+PostgreSQL;Mentoring+engineers+%7C+Scaling+platforms" alt="Typing SVG" />
 
 <br><br>
 
@@ -80,9 +80,6 @@ Salesforce Agentblazer Champion & Innovator (GenAI / autonomous agents)
 
 </div>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniloVargasDaSilva&theme=tokyonight&hide_border=true" />
 
 </div>
 
