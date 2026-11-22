@@ -1,84 +1,108 @@
-<div align="center">
+<a href="https://danilovargasdasilva.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="100%" alt="Danilo Vargas da Silva. Software engineer and tech lead moving into AI engineering, building in public.">
+  </picture>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+high-scale+backend+systems;Event-driven+architecture+%7C+PostgreSQL+%7C+AWS;Mentoring+engineers+%7C+Scaling+platforms" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=600&size=20&duration=2600&pause=900&color=1F3FBF&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer+%26+Tech+Lead;Building+AI+agents+and+MCP+servers;Neural+nets+from+scratch%2C+in+public;5th+place+at+the+OpenAI+DevDay+Hackathon" alt="Senior Software Engineer & Tech Lead. Building AI agents and MCP servers. Neural nets from scratch, in public. 5th place at the OpenAI DevDay Hackathon.">
+</p>
 
-<br><br>
+<p align="center">
+  <a href="https://danilovargasdasilva.github.io"><img src="https://img.shields.io/badge/Website-danilovargasdasilva.github.io-1F3FBF?style=flat-square" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/danilovargasdasilva"><img src="https://img.shields.io/badge/LinkedIn-danilovargasdasilva-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:danilo.vargas.silva.br@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-14181B?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Brazil-remote-0E7C6B?style=flat-square" alt="Based in Brazil, remote">
+</p>
 
-<a href="https://linkedin.com/in/danilovargasdasilva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:danilo.silva.eua@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Brazil-Remote-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+---
 
-</div>
-<br>
+### 👋 About
 
-## 👋 About me
+I'm a **Senior Software Engineer & Tech Lead** at Desktop, a telecom and SaaS company in Brazil, leading architecture across three squads for a platform with **1M+ users**. Most of my work sits where data, backend and product meet.
 
-Software Engineer and Tech Lead with **6+ years of experience** in large-scale backend systems, microservices, event-driven architecture, and distributed data platforms in high-availability environments. Focused on scalable, resilient APIs, code quality, test automation, and observability.
+Now I'm moving into **AI engineering** and forward deployed work, and building every step of it in public. Before software, I was a machining technician, so I still like to measure first and find the root cause.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```python
+danilo = {
+    "now":       "Tech Lead · Platform & CRM Engineering · 3 squads",
+    "learning":  ["PyTorch", "Transformers", "fine-tuning", "computer vision"],
+    "building":  ["MCP servers", "AI agents with evals"],
+    "open_to":   ["AI Engineer", "Forward Deployed Engineer", "Senior Backend"],
+    "principle": "measure twice, ship once",
+}
+```
 
-**🧭 Currently**
-Tech Lead, Platform & CRM Engineering — architecture and governance across 3 squads
+### 🛠️ Now building: a 12-month AI roadmap
 
-**👥 Leadership**
-Mentored 6 engineers; built code review, testing, and CI/CD standards now reused org-wide
+Each project ships with code, results and a short write-up.
 
-</td>
-<td width="50%" valign="top">
+| | Project | What it is | Status |
+|---|---|---|---|
+| P0 | `micrograd-notes` | An autograd engine written from scratch | 🔵 building |
+| P1 | `mlp-mnist` | A neural network in NumPy, then PyTorch | ⚪ planned |
+| P2 | `mcp-servers` | MCP servers for arXiv research and ML experiment tracking | ⚪ planned |
+| P3 | `gpt-ptbr` | A small GPT trained on Portuguese text | ⚪ planned |
+| P4 | `cnn-classifier` | CNN from scratch vs transfer learning | ⚪ planned |
+| P5 | `yolo-detector` | Object detection on my own images | ⚪ planned |
+| P6 | `finetune-ptbr` | Local LoRA vs cloud fine-tuning vs prompting | ⚪ planned |
+| P7 | `room-3d` | NeRF vs Gaussian Splatting | ⚪ planned |
+| P8 | `tiny-jepa` | A small JEPA with a research-style report | ⚪ planned |
 
-**🌱 Open Source**
-Supabase Community Technical Contributor since 2021 — multi-schema support, pgvector, AI-ready architectures
+<!-- Ao publicar um projeto: troque o nome por um link para o repositório e o status por ✅ shipped. -->
 
-**🤖 Certified**
-Salesforce Agentblazer Champion & Innovator (GenAI / autonomous agents)
+### 🏆 Highlights
 
-</td>
-</tr>
-</table>
-<br>
+- **5th place, OpenAI DevDay Hackathon (Oct 2026).** An AI tool that flags discrepancies between contracts and invoices. [`hackaton_openai_conforme_contratos`](https://github.com/DaniloVargasDaSilva/hackaton_openai_conforme_contratos)
+- **Supabase community contributor since 2021.** PostgreSQL multi-schema support, API gateway routing and pgvector patterns for AI workloads.
 
-## 🛠️ Tech Stack
+| Impact at work | |
+|---|---|
+| 🧱 8 TB PostgreSQL platform replacing 400+ data silos | **8x** lower cost |
+| 🚨 Critical production incidents across 3 squads | **−40%** |
+| 🚚 Technician allocation after rebuilding the dispatch engine | **+65%** |
+| ⚡ Data processing with a Python/Polars pipeline | **8x** faster |
+| 🤖 Delivery speed with Claude Code + pre-merge evals | **+35%**, no regressions |
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,ts,python,fastapi,java,spring,postgres,aws,docker,react,nextjs,git&perline=6" />
-</div>
-<br>
+### 🧰 Tech
 
-| Area | Technologies |
-|:---|:---|
-| 🔹 **Frontend** | React · TypeScript · Next.js (SSR/SSG/ISR) |
-| 🔹 **Backend** | Node.js/Express · Python (FastAPI, Polars) · Java (Spring Boot) |
-| 🔹 **Data** | PostgreSQL (WAL, CDC, partitioning, tuning) · Supabase · Redshift |
-| 🔹 **Cloud & Infra** | AWS (Lambda, EC2, S3, RDS) · Docker · GitHub Actions · Kong API Gateway |
-| 🔹 **Observability** | Datadog · Sentry · distributed tracing |
-| 🔹 **Applied AI** | Claude Code · Cursor · OpenAI API · RAG · pgvector |
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,java,react,nextjs,postgres,supabase,redis,aws,docker,githubactions,pytorch,linux,git&perline=8" alt="Python, TypeScript, JavaScript, Node.js, Java, React, Next.js, PostgreSQL, Supabase, Redis, AWS, Docker, GitHub Actions, PyTorch, Linux, Git">
+</p>
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/LLM%20APIs-14181B?style=flat-square" alt="LLM APIs">
+  <img src="https://img.shields.io/badge/RAG-14181B?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/MCP-14181B?style=flat-square" alt="MCP">
+  <img src="https://img.shields.io/badge/Evals-14181B?style=flat-square" alt="Evals">
+  <img src="https://img.shields.io/badge/pgvector-14181B?style=flat-square" alt="pgvector">
+  <img src="https://img.shields.io/badge/Claude%20Code-14181B?style=flat-square" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Hugging%20Face-14181B?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face">
+</p>
 
-## 📈 Impact
+### 📈 Activity
 
-<div align="center">
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DaniloVargasDaSilva&show_icons=true&hide_border=true&title_color=1F3FBF&icon_color=1F3FBF&text_color=5D676D&bg_color=00000000" alt="GitHub stats">
+  <img height="160" src="https://streak-stats.demolab.com?user=DaniloVargasDaSilva&hide_border=true&background=00000000&ring=1F3FBF&fire=1F3FBF&currStreakLabel=1F3FBF&sideLabels=5D676D&dates=5D676D&currStreakNum=5D676D&sideNums=5D676D" alt="GitHub streak">
+</p>
 
-| Metric | Context |
-|:---:|:---|
-| 📉 **−40%** | Critical production incidents, via engineering maturity initiatives |
-| 🚀 **+65%** | Operational efficiency from a dispatch system redesign |
-| ⚡ **8×** | Faster data processing with a Python/Polars ETL/ELT framework |
-| 🗄️ **8TB+** | Data warehouse delivered on PostgreSQL/Supabase, 8× lower TCO |
-| ⏱️ **−98%** | Analysis time cut via a Node.js tool adopted company-wide |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniloVargasDaSilva/DaniloVargasDaSilva/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/DaniloVargasDaSilva/DaniloVargasDaSilva/output/github-contribution-grid-snake.svg" width="100%" alt="Snake eating my contribution graph">
+</picture>
 
-</div>
-<br>
+### 🎓 Education & certifications
 
-## 🏅 Certifications & Community
+- B.Sc. in Computer Science, Anhanguera (in progress, 2027) · Technical Degree in Mechanics, SENAI
+- Salesforce Agentblazer Champion & Innovator · Cyber Threat Management (ENISA) · Data Governance (ENAP) · Lean Six Sigma Yellow Belt
 
-<div align="center">
+---
 
-`Agentblazer Champion & Innovator` · `Cyber Threat Management (ENISA)` · `Lean Six Sigma Yellow Belt` · `Data Governance (ENAP)`
-
-</div>
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:2C5364,100:0F2027&height=120&section=footer" width="100%" />
+<p align="center">
+  Open to <b>AI Engineer</b>, <b>Forward Deployed Engineer</b> and senior backend roles, remote.<br>
+  <a href="https://danilovargasdasilva.github.io">danilovargasdasilva.github.io</a> ·
+  <a href="https://www.linkedin.com/in/danilovargasdasilva">LinkedIn</a> ·
+  <a href="mailto:danilo.vargas.silva.br@gmail.com">Email</a>
+</p>
