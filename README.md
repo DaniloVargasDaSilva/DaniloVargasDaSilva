@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=600&size=20&duration=2600&pause=900&color=1F3FBF&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer+%26+Tech+Lead;Building+AI+agents+and+MCP+servers;Neural+nets+from+scratch%2C+in+public;5th+place+at+the+OpenAI+DevDay+Hackathon" alt="Senior Software Engineer & Tech Lead. Building AI agents and MCP servers. Neural nets from scratch, in public. 5th place at the OpenAI DevDay Hackathon.">
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=600&size=20&duration=2600&pause=900&color=1F3FBF&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer+%26+Tech+Lead;Building+AI+agents+and+MCP+servers;Neural+nets+from+scratch%2C+in+public;5th+place+at+the+OpenAI+DevDay+Hackathon;Shipped+ConfirmaCNPJ+in+one+day+at+Hack+Brasil" alt="Senior Software Engineer & Tech Lead. Building AI agents and MCP servers. Neural nets from scratch, in public. 5th place at the OpenAI DevDay Hackathon. Shipped ConfirmaCNPJ in one day at Hack Brasil.">
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Now I'm moving into **AI engineering** and forward deployed work, and building e
 danilo = {
     "now":       "Tech Lead · Platform & CRM Engineering · 3 squads",
     "learning":  ["PyTorch", "Transformers", "fine-tuning", "computer vision"],
-    "building":  ["MCP servers", "AI agents with evals"],
+    "building":  ["MCP servers", "AI agents with evals", "Hack Brasil 2026"],
     "open_to":   ["AI Engineer", "Forward Deployed Engineer", "Senior Backend"],
     "principle": "measure twice, ship once",
 }
@@ -54,6 +54,7 @@ Each project ships with code, results and a short write-up.
 
 ### 🏆 Highlights
 
+- **[ConfirmaCNPJ](https://confirmacnpj.vercel.app/), Hack Brasil meetup (Nov 2026).** Built in one day: paste a website or a CNPJ and find out if the Brazilian company behind it is real, active and owns that site. Firecrawl scrape and search, Registro.br and Federal Revenue data, Next.js on Vercel. [`confirmacnpj`](https://github.com/DaniloVargasDaSilva/confirmacnpj-)
 - **5th place, OpenAI DevDay Hackathon (Oct 2026).** An AI tool that flags discrepancies between contracts and invoices. [`hackaton_openai_conforme_contratos`](https://github.com/DaniloVargasDaSilva/hackaton_openai_conforme_contratos)
 - **Supabase community contributor since 2021.** PostgreSQL multi-schema support, API gateway routing and pgvector patterns for AI workloads.
 
