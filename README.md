@@ -47,7 +47,7 @@ Each project ships with code, results and a short write-up.
 | P4 | `cnn-classifier` | CNN from scratch vs transfer learning | ⚪ planned |
 | P5 | `yolo-detector` | Object detection on my own images | ⚪ planned |
 | P6 | `finetune-ptbr` | Local LoRA vs cloud fine-tuning vs prompting | ⚪ planned |
-| P7 | `room-3d` | NeRF vs Gaussian Splatting | ⚪ planned |
+| P7 | `agentic-rag` | Production agentic RAG over arXiv papers | ⚪ planned |
 | P8 | `tiny-jepa` | A small JEPA with a research-style report | ⚪ planned |
 
 <!-- Ao publicar um projeto: troque o nome por um link para o repositório e o status por ✅ shipped. -->
@@ -55,7 +55,7 @@ Each project ships with code, results and a short write-up.
 ### 🏆 Highlights
 
 - **[ConfirmaCNPJ](https://confirmacnpj.vercel.app/), Hack Brasil meetup (Nov 2026).** Built in one day: paste a website or a CNPJ and find out if the Brazilian company behind it is real, active and owns that site. Firecrawl scrape and search, Registro.br and Federal Revenue data, Next.js on Vercel. [`confirmacnpj`](https://github.com/DaniloVargasDaSilva/confirmacnpj-)
-- **5th place, OpenAI DevDay Hackathon (Oct 2026).** An AI tool that flags discrepancies between contracts and invoices. [`hackaton_openai_conforme_contratos`](https://github.com/DaniloVargasDaSilva/hackaton_openai_conforme_contratos)
+- **5th place, OpenAI DevDay Hackathon (Oct 2026).** [Conforme](https://hackaton-openai-conforme-contratos.vercel.app/), an AI tool that flags discrepancies between contracts and invoices. [`hackaton_openai_conforme_contratos`](https://github.com/DaniloVargasDaSilva/hackaton_openai_conforme_contratos)
 - **Supabase community contributor since 2021.** PostgreSQL multi-schema support, API gateway routing and pgvector patterns for AI workloads.
 
 | Impact at work | |
