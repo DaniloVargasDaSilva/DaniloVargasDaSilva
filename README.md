@@ -28,7 +28,7 @@ Now I'm moving into **AI engineering** and forward deployed work, and building e
 danilo = {
     "now":       "Tech Lead · Platform & CRM Engineering · 3 squads",
     "learning":  ["PyTorch", "Transformers", "fine-tuning", "computer vision"],
-    "building":  ["MCP servers", "AI agents with evals", "Hack Brasil 2026"],
+    "building":  ["MCP servers", "AI agents with evals", "Hack Brasil 2026, online phase"],
     "open_to":   ["AI Engineer", "Forward Deployed Engineer", "Senior Backend"],
     "principle": "measure twice, ship once",
 }
@@ -54,8 +54,9 @@ Each project ships with code, results and a short write-up.
 
 ### 🏆 Highlights
 
-- **[ConfirmaCNPJ](https://confirmacnpj.vercel.app/), Hack Brasil meetup (Nov 2026).** Built in one day: paste a website or a CNPJ and find out if the Brazilian company behind it is real, active and owns that site. Firecrawl scrape and search, Registro.br and Federal Revenue data, Next.js on Vercel. [`confirmacnpj`](https://github.com/DaniloVargasDaSilva/confirmacnpj-)
+- **[ConfirmaCNPJ](https://confirmacnpj.vercel.app/), Hack Brasil meetup (Nov 2026).** Built in one day: paste a website or a CNPJ and find out if the Brazilian company behind it is real, active and owns that site. Firecrawl scrape and search, Registro.br and Federal Revenue data, Next.js on Vercel. [`confirmacnpj`](https://github.com/DaniloVargasDaSilva/confirmacnpj-) Now building the official Hack Brasil project with Iridiana Amarante for the online phase.
 - **5th place, OpenAI DevDay Hackathon (Oct 2026).** [Conforme](https://hackaton-openai-conforme-contratos.vercel.app/), an AI tool that flags discrepancies between contracts and invoices. [`hackaton_openai_conforme_contratos`](https://github.com/DaniloVargasDaSilva/hackaton_openai_conforme_contratos)
+- **OpenAI DevDay Exchange, São Paulo (Nov 2025).** Attended in person.
 - **Supabase community contributor since 2021.** PostgreSQL multi-schema support, API gateway routing and pgvector patterns for AI workloads.
 
 | Impact at work | |
@@ -65,6 +66,21 @@ Each project ships with code, results and a short write-up.
 | 🚚 Technician allocation after rebuilding the dispatch engine | **+65%** |
 | ⚡ Data processing with a Python/Polars pipeline | **8x** faster |
 | 🤖 Delivery speed with Claude Code + pre-merge evals | **+35%**, no regressions |
+
+### 📸 On the ground
+
+<p>
+  <img src="assets/photos/devday-stage.jpg" width="100%" alt="Danilo giving a thumbs up on the OpenAI DevDay Exchange stage in São Paulo">
+  <br><sub>On the OpenAI DevDay Exchange stage, São Paulo, Nov 2025</sub>
+</p>
+<p>
+  <img src="assets/photos/hack-brasil.jpg" width="100%" alt="Danilo next to the Hack Brasil banner at the Campinas meetup">
+  <br><sub>Hack Brasil meetup, Campinas, Nov 2026, where ConfirmaCNPJ was built</sub>
+</p>
+<p>
+  <img src="assets/photos/hackathon-group.jpg" width="100%" alt="Group photo of the OpenAI DevDay Community Hackathon participants in São Paulo">
+  <br><sub>OpenAI DevDay Community Hackathon, São Paulo, where our team placed 5th</sub>
+</p>
 
 ### 🧰 Tech
 
